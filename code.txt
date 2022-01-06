@@ -1,1 +1,4 @@
 std::cout << "hi there!" << std::endl;
+for (int i:vec){
+	std::cout << i * i << std::endl;
+}
